@@ -1,0 +1,10 @@
+.main{
+    
+}
+.img{
+    flex-wrap: wrap;
+    
+}
+.container-fluid{
+    flex-direction: row-reverse;
+}

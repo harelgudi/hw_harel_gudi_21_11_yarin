@@ -1,0 +1,32 @@
+.header {
+     /* background-color: rgb(69, 180, 17);  */
+    height: 700px;
+    background-image:url(/public/קמפיין-כללי-01.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+    .navA{
+        background: black;
+        height: 40px;
+       
+    }
+    .navB{
+         height: 40px; 
+         background-image:url(/public/bagir-logo-02.png); 
+         display: flex; 
+         justify-content: space-around; 
+        padding: 20px; 
+        
+    }
+    .ul{
+        list-style: none;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-direction: row-reverse;
+
+    }
+    .li{
+        padding: 20px;
+    }
